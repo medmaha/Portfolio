@@ -1,0 +1,19 @@
+navbar
+
+section
+    header  
+        hero
+        social media
+    main
+        section
+            projects
+        section
+            experience
+        section
+            skills
+        section
+            contact
+        
+section
+    footer
+        social media
